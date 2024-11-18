@@ -115,5 +115,8 @@
 			"Name": "ChaosUserDataPT",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
